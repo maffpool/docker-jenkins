@@ -1,0 +1,17 @@
+analysis-core:latest
+checkstyle:latest
+cloverphp:latest
+crap4j:latest
+dry:latest
+htmlpublisher:latest
+jdepend:latest
+plot:latest
+pmd:latest
+violations:latest
+xunit:latest
+greenballs:latest
+scm-api:latest
+git-client:latest
+git:latest
+github-api:latest
+github:latest
